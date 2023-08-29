@@ -1133,6 +1133,7 @@
 ##.newsletter-sidebar-wrapper
 ##.newsletter-sign-up-block
 ##.newsletter-sign-up-popup-mask
+##.newsletter-signup
 ##.newsletter-signup--homepage
 ##.newsletter-signup-article-wrapper
 ##.newsletter-signup-banner
